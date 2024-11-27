@@ -39,7 +39,7 @@ Repozytorium zawiera projekty związane z modelowaniem UML, realizowane w ramach
 - *Opis wymagań* jest dostępny w formacie: 
   - `.pdf` - pliki `.pdf` można przeglądać za pomocą czytników PDF, takich jak Adobe Acrobat.
   
-## Examples
+## Przykład
 ![Przykład diagramu klas](https://github.com/asntsn/UML-diagrams/blob/main/Przedsiębiorstwo_Remontowe_Dróg/Diagram_klass-Przedsiębiorstwo_Remontowe_Dróg.png)
 
 ## Autor
