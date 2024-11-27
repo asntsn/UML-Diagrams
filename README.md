@@ -40,7 +40,7 @@ Repozytorium zawiera projekty związane z modelowaniem UML, realizowane w ramach
   - `.pdf` - pliki `.pdf` można przeglądać za pomocą czytników PDF, takich jak Adobe Acrobat.
   
 ## Examples
-![Przykład diagramu klas](Diagram_klass-Przedsiębiorstwo_Remontowe_Dróg.png)
+![Przykład diagramu klas](Przedsiębiorstwo_Remontowe_Dróg\Diagram_klass-Przedsiębiorstwo_Remontowe_Dróg.png)
 
 ## Autor
 Anna Sinitsyna.
